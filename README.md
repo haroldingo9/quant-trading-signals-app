@@ -1,2 +1,7 @@
-# quant-trading-signals-app
-A Streamlit web app that generates trading signals using Momentum, Mean Reversion (RSI), and Moving Average Crossover strategies. Upload your own stock data or fetch from Yahoo Finance.
+## ⚠️ Disclaimer
+
+This application is for **educational and informational purposes only**.  
+It does **not constitute financial advice** or a recommendation to buy/sell any securities.  
+The strategies used here are simplified and should not be used for live trading without further validation.  
+Always consult with a certified financial advisor before making investment decisions.  
+Use this software at your own risk.
